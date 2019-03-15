@@ -1,5 +1,4 @@
 # hello-world
+Just another repository
 
-Hi, Humans!
-
-My name is Gabe and I am learning how to use GitHub!
+My name is Gabe.
